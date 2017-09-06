@@ -19,7 +19,7 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Justin D. Silverman"
+  name = "Justin Silverman"
   role = "MD-PhD Candidate"
   organization = "Duke University"
   organization_url = ""
@@ -173,6 +173,11 @@ defaultContentLanguageInSubdir = false
 #  name = "Teaching"
 #  url = "#teaching"
 #  weight = 5
+
+[[menu.main]]
+  name = "CV"
+  url = "/files/silverman_cv.pdf"
+  weight=5
 
 [[menu.main]]
   name = "Contact"
