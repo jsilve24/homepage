@@ -37,7 +37,7 @@ image_preview = ""
 selected = false
 
 # Links (optional)
-url_pdf = "https://peerj.com/articles/2969/"
+url_pdf = "/papers/2017_phylofactor.pdf"
 url_code = "https://github.com/reptalex/phylofactor"
 url_dataset = ""
 url_project = ""

@@ -37,12 +37,16 @@ image_preview = ""
 selected = true
 
 # Links (optional)
-url_pdf = "https://elifesciences.org/articles/21887"
+url_pdf = "/papers/2017_philr.pdf"
 url_code = "https://bioconductor.org/packages/release/bioc/html/philr.html"
-url_dataset = "https://elifesciences.org/articles/21887/figures"
+url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+
+[[url_custom]]
+  name = "Figure Supplements"
+  url = "/papers/2017_philr_figsup.pdf"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
