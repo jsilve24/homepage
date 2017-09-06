@@ -38,6 +38,6 @@ weight = 1
 
 # Biography
 
-Justin Silverman is a MD-PhD candidate at Duke University. His PhD work is being done in the Program of Computational Biology and Bioinformatics under the mentorship of [Dr. Lawrence David](http://el.ladlab.org:8080/) and [Dr. Sayan Mukherjee](https://sayanmuk.github.io/). Justin's thesis work focuses on longitudinal modeling and experimental design of host-associated microbiota. 
+Justin Silverman is a MD-PhD candidate at Duke University. His PhD work is being done in the Program of Computational Biology and Bioinformatics under the mentorship of [Dr. Lawrence David](http://el.ladlab.org:8080/) and [Dr. Sayan Mukherjee](https://sayanmuk.github.io/). Justin's dissertation work focuses on longitudinal modeling and experimental design of host-associated microbiota. 
 
 In his free time Justin enjoys exploring the outdoors (backpacking, canoing, rock climbing), creating puzzles, or simply relaxing by Jordan Lake with his wife (Rachel) and their dog (Gauss). Justin and Rachel also maintain a blog [statsathome.com](http://statsathome.com).
