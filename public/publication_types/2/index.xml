@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Justin Silverman</title>
+    <link>https://justin.silverman.com/publication_types/2/</link>
+    <description>Recent content in 2 on Justin Silverman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Justin Silverman</copyright>
+    <lastBuildDate>Tue, 05 Sep 2017 19:47:55 -0400</lastBuildDate>
+    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Phylogenetic factorization of compositional data yields lineage-level associations in microbiome datasets</title>
+      <link>https://justin.silverman.com/publication/phylofactor/</link>
+      <pubDate>Tue, 05 Sep 2017 19:47:55 -0400</pubDate>
+      
+      <guid>https://justin.silverman.com/publication/phylofactor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A phylogenetic transform enhances analysis of compositional microbiota data (PhILR)</title>
+      <link>https://justin.silverman.com/publication/philr/</link>
+      <pubDate>Tue, 05 Sep 2017 19:24:08 -0400</pubDate>
+      
+      <guid>https://justin.silverman.com/publication/philr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
