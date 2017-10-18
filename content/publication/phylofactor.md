@@ -17,8 +17,8 @@ authors = ["Alex D. Washburne", "Justin D. Silverman", "Jonathan W. Leff", "Domi
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "In *PeerJ*"
+publication_short = "In *PeerJ*"
 
 # Abstract and optional shortened version.
 abstract = "Marker gene sequencing of microbial communities has generated big datasets of microbial relative abundances varying across environmental conditions, sample sites and treatments. These data often come with putative phylogenies, providing unique opportunities to investigate how shared evolutionary history affects microbial abundance patterns. Here, we present a method to identify the phylogenetic factors driving patterns in microbial community composition. We use the method, “phylofactorization,” to re-analyze datasets from the human body and soil microbial communities, demonstrating how phylofactorization is a dimensionality-reducing tool, an ordination-visualization tool, and an inferential tool for identifying edges in the phylogeny along which putative functional ecological traits may have arisen."

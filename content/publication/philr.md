@@ -17,7 +17,7 @@ authors = ["Justin D. Silverman", "Alex D Washburne", "Sayan Mukherjee", "Lawren
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "A phylogenetic transform enhances analysis of compositional microbiota data"
+publication = "In *eLife*"
 publication_short = "In *eLife*"
 
 # Abstract and optional shortened version.
