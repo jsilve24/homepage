@@ -10,7 +10,7 @@ location = "Abbadia San Salvatore, Siena (Italy)"
 
 selected = false
 math = false
-highlight = true
+highlight = false
 
 url_pdf = ""
 url_slides = "https://speakerdeck.com/jsilve24/codawork-2017-talk"

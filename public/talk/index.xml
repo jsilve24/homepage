@@ -8,12 +8,14 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Justin Silverman</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.justin-silverman.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Quantifying and Controlling for Sources of Technical Variation and Bias in Longitudinal Microbiome Surveys</title>
       <link>http://www.justin-silverman.com/talk/jsm2018/</link>
-      <pubDate>Sun, 29 Jul 2018 20:01:59 -0400</pubDate>
+      <pubDate>Sun, 29 Jul 2018 11:39:13 -0700</pubDate>
       
       <guid>http://www.justin-silverman.com/talk/jsm2018/</guid>
       <description></description>
@@ -22,7 +24,7 @@
     <item>
       <title>Statistical and Geometric Methods for the Analysis of Sequence Count Data</title>
       <link>http://www.justin-silverman.com/talk/penn2018/</link>
-      <pubDate>Sun, 29 Jul 2018 20:01:59 -0400</pubDate>
+      <pubDate>Wed, 04 Apr 2018 20:01:59 -0400</pubDate>
       
       <guid>http://www.justin-silverman.com/talk/penn2018/</guid>
       <description></description>
