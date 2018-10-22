@@ -1,6 +1,6 @@
 +++
 title = "Statistical Considerations in the Design and Analysis of Longitudinal Microbiome Studies"
-date = "2018-10-22T10:20:55-04:00"
+date = "2018-10-21T10:20:55-04:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Justin D Silverman", "Liat Shenhav", "Eran A Halperin", "Sayan Mukherjee", "Lawrence A David"]
