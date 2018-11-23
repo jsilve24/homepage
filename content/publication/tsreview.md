@@ -14,7 +14,7 @@ authors = ["Justin D Silverman", "Liat Shenhav", "Eran A Halperin", "Sayan Mukhe
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "On *bioRxiv*"
