@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Justin Silverman</copyright>
-    <lastBuildDate>Sun, 21 Oct 2018 10:20:55 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2017 10:54:57 -0400</lastBuildDate>
     
 	<atom:link href="http://www.justin-silverman.com/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Statistical Considerations in the Design and Analysis of Longitudinal Microbiome Studies</title>
-      <link>http://www.justin-silverman.com/publication/tsreview/</link>
-      <pubDate>Sun, 21 Oct 2018 10:20:55 -0400</pubDate>
-      
-      <guid>http://www.justin-silverman.com/publication/tsreview/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>The Bayesian Sorting Hat: A Decision-Theoretic Approach to Size-Constrained Clustering</title>

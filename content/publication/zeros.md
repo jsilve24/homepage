@@ -37,7 +37,7 @@ image_preview = ""
 selected = true
 
 # Links (optional)
-url_pdf = ""
+url_pdf = "https://www.biorxiv.org/content/early/2018/11/26/477794"
 url_code = "https://github.com/jsilve24/zero_types_paper"
 url_dataset = ""
 url_project = ""
