@@ -34,7 +34,7 @@ highlight = true
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Links (optional)
 url_pdf = "/papers/2017_philr.pdf"
