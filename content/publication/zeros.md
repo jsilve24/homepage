@@ -34,7 +34,7 @@ highlight = true
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Links (optional)
 url_pdf = "https://www.biorxiv.org/content/early/2018/11/26/477794"
