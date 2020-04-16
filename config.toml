@@ -1,6 +1,6 @@
 baseurl = "http://www.justin-silverman.com/"  # End your URL with a `/` trailing slash.
 title = "Justin Silverman"
-copyright = "&copy; 2017 Justin Silverman"
+copyright = "&copy; 2020 Justin Silverman"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,12 +20,12 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Justin Silverman"
-  role = "MD-PhD Candidate"
-  organization = "Duke University"
+  role = "Assistant Professor"
+  organization = "Penn State University"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "justin_silverman.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "Justin.Silverman@duke.edu"
+  email = "jsilve24@gmail.com"
   address = ""
   office_hours = ""
   phone = ""

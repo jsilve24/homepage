@@ -14,10 +14,11 @@ weight = 1
   interests = [
     "Bayesian Statistics",
     "Sequence Count Data",
+    "Epidemiology", 
     "Probability Theory",
     "Time Series Analysis", 
     "Compositional Data Analysis", 
-    "Antibiotic Resistance"
+    "Personalized Medicine"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -40,6 +41,6 @@ weight = 1
 
 # Biography
 
-Justin Silverman is a MD-PhD candidate at Duke University. His PhD work was done under the mentorship of [Dr. Lawrence David](http://el.ladlab.org:8080/) and [Dr. Sayan Mukherjee](https://sayanmuk.github.io/). Justin's dissertation work focused on longitudinal modeling and experimental design of host-associated microbiota surveys. 
+Justin Silverman is an Assistant Professor in the College of Information Science and Technology at Penn State University. Justin completed both an MD and PhD at Duke University. His PhD work was done under the mentorship of [Dr. Lawrence David](http://el.ladlab.org:8080/) and [Dr. Sayan Mukherjee](https://sayanmuk.github.io/). Justin's dissertation work focused on longitudinal modeling and experimental design of host-associated microbiota surveys.
 
 In his free time Justin enjoys exploring the outdoors (backpacking, canoing, rock climbing), creating puzzles, or simply relaxing by Jordan Lake with his wife (Rachel) and their dog (Gauss). Justin and Rachel also maintain a blog [statsathome.com](http://statsathome.com).
