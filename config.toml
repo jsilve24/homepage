@@ -1,198 +1,110 @@
-baseurl = "http://www.justin-silverman.com/"  # End your URL with a `/` trailing slash.
+# Basic Configuration
+
+baseurl = "http://www.justin-silverman.com/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Justin Silverman"
 title = "Justin Silverman"
-copyright = "&copy; 2020 Justin Silverman"
-theme = "academic"
-enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
 
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
+theme = "hugo-goa"
 
-# Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+## Hugo Built-in Features
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+# googleAnalytics = "XYZ"
+enableRobotsTXT = true
 
-# Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
-
-[blackfriday]
-  hrefTargetBlank = true
-
+## Site Settings
 [params]
-  name = "Justin Silverman"
-  role = "Assistant Professor"
-  organization = "Penn State University"
-  organization_url = ""
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "justin_silverman.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "jsilve24@gmail.com"
-  address = ""
-  office_hours = ""
-  phone = ""
-  skype = ""
-  telegram = ""
+author = "Justin D. Silverman, MD, PhD"
+intro = "Assistant Professor - Penn State University   Founder & Cheif Scientist - Anarres Analytics"
+description="Statistics, Bioinformatics, Medicine, Agriculture"
+authorimage = "Silverman-Justin.jpg"
+dateformat = "Jan 2, 2006"
 
-  # Enable Keybase in Contact section by entering your keybase.io username.
-  keybase = ""
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
 
-  # Date format (refer to Go's date format: http://flippinggodateformat.com )
-  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+## Social Accounts
+[params.social]
+github = "jsilve24"
+# instagram = "<username>"
+# xing = "<username>"
+# linkedin = "<username>"
+twitter = "inschool4life"
+# facebook = "<username>"
+# google = "<username>"
+googlescholar = "V8RmiSAAAAAJ&hl"
+# stackoverflow = "<username>"
+# lastfm = "<username>"
+# goodreads = "<username>"
+# gitlab = "<username>"
+# bitbucket = "<username>"
+# fivehundredpx = "<username>"
+# flickr = "<username>"
+# foursquare = "<username>"
+# hackernews = "<username>"
+# kickstarter = "<username>"
+# patreon = "<username>"
+# pintrest = "<username>"
+# steam = "<username>"
+# reddit = "<username>"
+# snapchat = "<username>"
+# youtube = "<channelid>"
+# keybase = "<username>"
+# twitch = "<username>"
+# soundcloud = "<username>"
+# tumblr = "<username>"
+# strava = "<username>"
+# skype = "<username>"
+# telegram = "<username>"
+# whatsapp = "<username>"
+email = "justinsilverman@psu.edu"
+# pgp = "<key_fingerprint>"
 
-  # Enable global LaTeX math rendering?
-  #   If false, you can enable it locally on a per page basis.
-  math = true
+## Extras
+[params.extra]
+copyright = "© 2022. Justin Silverman."
+poweredby = false
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = false
 
-  # Highlight.js options
-  #   highlight
-  #     Enable global source code highlighting?  If false, you can
-  #     override it for a particular page in that page's preamble.
-  #
-  #     Example: highlight = true
-  #
-  #   highlight_languages
-  #     Add support for highlighting additional languages. Support for
-  #     languages mentioned here will be included in all pages. You
-  #     can also set this variable for a particular page in that
-  #     page's preamble.
-  #
-  #     Example: highlight_languages = ["go", "lisp", "ocaml"]
-  #
-  #   highlight_style
-  #     Choose a different CSS style for highlighting source
-  #     code. Setting this option in a page's preamble has no
-  #     effect.
-  #
-  #     Example: highlight_style = "github-gist"
-  #
-  #   highlight_version
-  #     Choose the version of highlight.js you want. Setting this
-  #     option in a page's preamble has no effect.
-  #
-  #     Example: highlight_version = "9.9.0"
-  #
-  #   For the list of supported languages, styles, and versions, see:
-  #   https://cdnjs.com/libraries/highlight.js/
-  #
-  #   For more info on the highlighting options, see:
-  #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
-  highlight = true
-  highlight_languages = []
-  # highlight_style = "github"
-  # highlight_version = "9.9.0"
-
-  # Enable native social sharing buttons?
-  sharing = true
-
-  # Link custom CSS and JS assets
-  #   (relative to /static/css and /static/js respectively)
-  custom_css = []
-  custom_js  = []
-
-  # Publication types.
-  #   Used to categorize publications.
-  #   The index of the publication type in the list is used as its unique numerical identifier.
-  #   The numeric ID is used in a publication's frontmatter to categorize it.
-  #   The language can be edited below.
-  #   For multi-lingual sites, copy this block to each language section at the end of this file.
-  publication_types = [
-    'Uncategorized',  # 0
-    'Conference proceedings',  # 1
-    'Journal',  # 2
-    'Work in progress',  # 3
-    'Technical report',  # 4
-    'Book',  # 5
-    'Book chapter'  # 6
-  ]
-
-  # Social/Academic Networking
-  #
-  # Icon pack "fa" includes the following social network icons:
-  #
-  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
-  #   youtube, instagram, soundcloud
-  #
-  #   For email icon, use "fa" icon pack, "envelope" icon, and
-  #   "mailto:your@email.com" as the link.
-  #
-  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
-  #
-  # Icon pack "ai" includes the following academic network icons:
-  #
-  #   google-scholar, arxiv, orcid, researchgate, mendeley
-  #
-  #   Full list: https://jpswalsh.github.io/academicons/
-
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:Justin.Silverman@duke.edu"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/inschool4life"
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=V8RmiSAAAAAJ&hl=en&oi=sra"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/jsilve24"
-
-
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
-
+## Main Menu
 [[menu.main]]
-  name = "Home"
-  url = "#about"
-  weight = 1
-
+    name = "about"
+    weight = 100
+    identifier = "about"
+    url = "/about/"
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
-
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
-
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
-
-#[[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 5
-
+    name = "consulting"
+    identifier = "statistical consulting"
+    weight = 200
+    url = "/consulting/"
 [[menu.main]]
-  name = "CV"
-  url = "/files/silverman_cv.pdf"
-  weight=5
-
+    name = "lab website"
+    weight = 300
+    url = "https://jsilve24.github.io/SilvermanLab/"
 [[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+    name = "blog"
+    weight = 400
+    url = "http://www.statsathome.com/"
+# [[menu.main]]
+#     name = "teaching"
+#     weight = 500
+#     url = "http://www.statsathome.com/"
+# [[menu.main]]
+#     name = "farming"
+#     weight = 600
+#     url = "http://www.statsathome.com/"
 
-# Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
 
-# Languages
-#   Create a [languages.X] block for each language you want, where X is the language ID.
 
-# Configure the English version of the website.
-[languages.en]
-  languageCode = "en-us"
