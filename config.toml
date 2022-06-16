@@ -7,10 +7,10 @@ languageCode = "en-US"
 
 contentdir = "content"
 layoutdir = "layouts"
-publishdir = "public"
+publishdir = "docs"
 
 author = "Justin Silverman"
-title = "Justin Silverman"
+title = "Justin Silverman Homepage"
 
 theme = "hugo-goa"
 
@@ -22,15 +22,15 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Justin D. Silverman, MD, PhD"
-intro = "Assistant Professor - Penn State University   Founder & Cheif Scientist - Anarres Analytics"
+intro = "Assistant Professor - Penn State University   Founder & Chief Scientist - Anarres Analytics"
 description="Statistics, Bioinformatics, Medicine, Agriculture"
 authorimage = "Silverman-Justin.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = "Personal Homepage, Justin D. Silverman"
+keywords = "statistics, bioinformatics,  biomedical, multivariate statistics, bayesian statistics, time-series, longitudinal data"
 
 ## Social Accounts
 [params.social]
@@ -97,6 +97,10 @@ displayrssicon = false
     name = "blog"
     weight = 400
     url = "http://www.statsathome.com/"
+[[menu.main]]
+    name = "farming"
+    weight = 500
+    url="https://jsilve24.github.io/HomewoodFarm/"
 # [[menu.main]]
 #     name = "teaching"
 #     weight = 500

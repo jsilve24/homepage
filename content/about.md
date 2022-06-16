@@ -10,28 +10,45 @@ title = "About"
 showpagemeta = false
 +++
 
-# Current Employment
-
-- **Assistant Professor** of Informatics, Statistics, and Medicine @ PSU
-- **Founder & Chief Scientist** Anarres Analytics LLC 
-- **Owner and Operator** Homewood Farm LLC
-
-Justin Silverman is an Assistant Professor in the College of Information Science and Technology, the
-Department of Statistics, and the Department of Medicine at Penn State University. He earned a BS in
-Physics and Biophysics from Johns Hopkins University and both an MD and PhD from Duke University.
 
 # Education
 - **MD**, Duke University School of Medicine, 2020
 - **PhD**, Duke University, Computational Biology and Bioinformatics, 2019
 - **BS**, Johns Hopkins University, 2011, Physics and Biophysics
- 
-# Research Interests
 
-Justin Silverman is an Assistant Professor in the College of Information Science and Technology, the
-Department of Statistics, and the Department of Medicine at Penn State University. He earned a BS in
-Physics and Biophysics from Johns Hopkins University and both an MD and PhD from Duke University.
+# Current Employment
 
+- [**Assistant Professor** of Informatics, Statistics, and Medicine @ PSU](https://ist.psu.edu/directory/jds6696)
+- [**Founder & Chief Scientist** Anarres Analytics LLC](/consulting/) 
+- [**Owner and Operator** Homewood Farm LLC](https://jsilve24.github.io/HomewoodFarm/)
+
+# Areas of Focus
+
+If it involves cool math and is impactful, I am interested. 
+
+## Applications
+- Analysis of Bio-molecular Assays 
+  - Microbiome Amplicon and Shotgun Sequencing
+  - Bulk and Single-Cell RNA-Seq
+  - Phosphoproteomics 
+- Inference and Prediction from Financial Time-Series and Alt-Data
+- Personalized Medicine
+  - Medical Decision Making Under Uncertainty 
+  - Personalized Risk Prediction 
+- Non-Specific Surveillance in Epidemiology
+  - Waste-Water Based Viral Surveillance for COVID-19
+  - Use of Syndromic Markers for Assessing Disease Burden
+- Agriculture
+  - Microbial determinants of feed conversion and disease prevention in livestock
+
+## Methodological 
+
+# Research
 
 My research focuses on uncertainty quantification in the setting of partial identifiability with a particular application to the analysis of multivariate sequence count data (e.g., Microbiome and Gene Expression studies). I also have particular interest in multivariate time-series analysis which I have applied to a wide variety of problems in finance, epidemiology, and personalized medicine. 
 
-In his free time Justin enjoys exploring the outdoors (backpacking, canoing, rock climbing), creating puzzles, or simply relaxing by Jordan Lake with his wife (Rachel) and their dog (Gauss). Justin and Rachel also maintain a blog [statsathome.com](http://statsathome.com).
+More detail on my research interests can be obtained from the [Silverman lab's website](https://jsilve24.github.io/SilvermanLab/research/) and from the list of [my recent publications](https://scholar.google.com/citations?user=V8RmiSAAAAAJ%26hl&user=V8RmiSAAAAAJ). 
+
+# Miscellanea 
+
+In my free time I enjoy exploring the outdoors (backpacking, canoing, rock climbing), creating puzzles, and farming. 
