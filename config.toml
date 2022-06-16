@@ -7,7 +7,7 @@ languageCode = "en-US"
 
 contentdir = "content"
 layoutdir = "layouts"
-publishdir = "docs"
+publishdir = "public"
 
 author = "Justin Silverman"
 title = "Justin Silverman Homepage"
