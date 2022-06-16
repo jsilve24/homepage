@@ -22,7 +22,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Justin D. Silverman, MD, PhD"
-intro = "Assistant Professor - Penn State University   Founder & Chief Scientist - Anarres Analytics"
+intro = "Assistant Professor - Penn State University\n  Founder & Chief Scientist - Anarres Analytics"
 description="Statistics, Bioinformatics, Medicine, Agriculture"
 authorimage = "Silverman-Justin.jpg"
 dateformat = "Jan 2, 2006"
