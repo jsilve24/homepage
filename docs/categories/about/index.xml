@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Justin Silverman Homepage</title>
+    <link>http://www.justin-silverman.com/categories/about/</link>
+    <description>Recent content in about on Justin Silverman Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="http://www.justin-silverman.com/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.justin-silverman.com/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>http://www.justin-silverman.com/about/</guid>
+      <description>Education  MD, Duke University School of Medicine, 2020 PhD, Duke University, Computational Biology and Bioinformatics, 2019 BS, Johns Hopkins University, 2011, Physics and Biophysics  Current Employment  Assistant Professor of Informatics, Statistics, and Medicine @ PSU Founder &amp;amp; Chief Scientist Anarres Analytics LLC Owner and Operator Homewood Farm LLC  Areas of Focus If it involves cool math and is impactful, I am interested.
+Applications  Analysis of Bio-molecular Assays  Microbiome Amplicon and Shotgun Sequencing Bulk and Single-Cell RNA-Seq Phosphoproteomics   Inference and Prediction from Financial Time-Series and Alt-Data Personalized Medicine  Medical Decision Making Under Uncertainty Personalized Risk Prediction   Non-Specific Surveillance in Epidemiology  Waste-Water Based Viral Surveillance for COVID-19 Use of Syndromic Markers for Assessing Disease Burden   Agriculture  Microbial determinants of feed conversion and disease prevention in livestock    Methodological Research My research focuses on uncertainty quantification in the setting of partial identifiability with a particular application to the analysis of multivariate sequence count data (e.</description>
+    </item>
+    
+  </channel>
+</rss>
