@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>consulting on Justin Silverman Homepage</title>
-    <link>http://www.justin-silverman.com/categories/consulting/</link>
-    <description>Recent content in consulting on Justin Silverman Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Consulting on Justin Silverman Homepage</title>
+    <link>http://localhost:1313/categories/consulting/</link>
+    <description>Recent content in Consulting on Justin Silverman Homepage</description>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="http://www.justin-silverman.com/categories/consulting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/consulting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anarres Analytics LLC</title>
-      <link>http://www.justin-silverman.com/consulting/</link>
+      <link>http://localhost:1313/consulting/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>http://www.justin-silverman.com/consulting/</guid>
-      <description>About Anarres Analytics LLC was founded in 2020 by Dr . Justin Silverman as a means of translating his research in statistics and machine learning into customized solutions for government and industry. Our focus is on developing and optimizing customized solutions for clients with a particular emphasis on model interpretability and quantified uncertainty to ensure insights are actionable for clients.
-Services We offer a broad range of services in a wide variety of fields including but not limited to biomedical research, finance, and agriculture.</description>
+      <guid>http://localhost:1313/consulting/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;p&gt;Anarres Analytics LLC was founded in 2020 by &lt;a href=&#34;http://justin-silverman.com&#34;&gt;Dr . Justin Silverman&lt;/a&gt; as a means of translating his research in statistics and machine learning into customized solutions for government and industry. Our focus is on developing and optimizing customized solutions for clients with a particular emphasis on model interpretability and quantified uncertainty to ensure insights are actionable for clients.&lt;/p&gt;&#xA;&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;&#xA;&lt;p&gt;We offer a broad range of services in a wide variety of fields including but not limited to biomedical research, finance, and agriculture. Below is an incomplete smattering of common services we provide.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

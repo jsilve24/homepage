@@ -1,7 +1,7 @@
 +++
 categories = ["about"]
 comments = false
-date = "2016-10-02T22:55:05-04:00"
+date = "2025-02-11T22:55:05-04:00"
 draft = false
 slug = ""
 tags = ["about"]
@@ -49,6 +49,7 @@ If it involves cool math and is impactful, I am interested. Lately my research h
 - Compositional Data
 - Multivariate Analysis 
 - Uncertainty Quantification in Time-Series Analysis 
+- Conformal Prediction
 
 #### More Details
 
