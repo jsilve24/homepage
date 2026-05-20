@@ -18,7 +18,7 @@ showpagemeta = false
 
 ## Current Employment
 
-- [**Assistant Professor** of Informatics, Statistics, and Medicine @ PSU](https://ist.psu.edu/directory/jds6696)
+- [**Associate Professor** of Informatics, Statistics, and Medicine @ PSU](https://ist.psu.edu/directory/jds6696)
 - [**Founder & Chief Scientist** Anarres Analytics LLC](/consulting/) 
 - [**Owner and Operator** Homewood Farm LLC](https://jsilve24.github.io/HomewoodFarm/)
 
