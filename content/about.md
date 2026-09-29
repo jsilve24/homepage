@@ -27,6 +27,14 @@ showpagemeta = false
 If it involves cool math and is impactful, I am interested. Lately my research has focused on uncertainty quantification in the setting of partial identifiability with a particular application to the analysis of multivariate sequence count data (e.g., Microbiome and Gene Expression studies). I also have particular interest in multivariate time-series analysis which I have applied to a wide variety of problems in finance, epidemiology, and personalized medicine. 
 
 
+#### Theory and Methods 
+- Partial Identified Models
+- Theory of Identifiability 
+- Uncertainty Quantification in ML/AI
+- Bayesian Statistics 
+- Compositional Data
+- Multivariate Analysis 
+
 #### Applications
 - Analysis of Bio-molecular Assays 
   - Microbiome Amplicon and Shotgun Sequencing
@@ -42,13 +50,6 @@ If it involves cool math and is impactful, I am interested. Lately my research h
 - Agriculture
   - Microbial determinants of feed conversion and disease prevention in livestock
 
-#### Methodological 
-- Partial Identified Models
-- Theory of Identifiability 
-- Uncertainty Quantification in ML/AI
-- Bayesian Statistics 
-- Compositional Data
-- Multivariate Analysis 
 
 #### More Details
 
