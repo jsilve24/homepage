@@ -18,7 +18,7 @@ showpagemeta = false
 
 ## Current Employment
 
-- [**Associate Professor** of Informatics, Statistics, and Medicine @ PSU](https://ist.psu.edu/directory/jds6696)
+- [**Associate Professor** of Statistics, Informatics, and Medicine @ PSU](https://ist.psu.edu/directory/jds6696)
 - [**Founder & Chief Scientist** Anarres Analytics LLC](/consulting/) 
 - [**Owner and Operator** Homewood Farm LLC](https://jsilve24.github.io/HomewoodFarm/)
 
@@ -44,12 +44,11 @@ If it involves cool math and is impactful, I am interested. Lately my research h
 
 #### Methodological 
 - Partial Identified Models
-- Bayesian Statistics
-- Bayesian Decision Theory 
+- Theory of Identifiability 
+- Uncertainty Quantification in ML/AI
+- Bayesian Statistics 
 - Compositional Data
 - Multivariate Analysis 
-- Uncertainty Quantification in Time-Series Analysis 
-- Conformal Prediction
 
 #### More Details
 
